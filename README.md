@@ -16,7 +16,10 @@ A modular, hands-on Python project demonstrating core vector database concepts u
 
 ## Demo
 
-
+<img width="1595" height="817" alt="ChromaDB_metadata" src="https://github.com/user-attachments/assets/0b4a0ab2-e62e-4646-bc62-e07c517612e4" />
+<img width="1584" height="817" alt="ChromaDB" src="https://github.com/user-attachments/assets/c5d5021d-3d85-44ff-9a55-7df590de499e" />
+<img width="1592" height="818" alt="semantic_search" src="https://github.com/user-attachments/assets/2e054d63-c057-4436-8e86-d881a46c11a4" />
+<img width="1590" height="822" alt="embeddings_cosine_similarity" src="https://github.com/user-attachments/assets/3743f552-9d28-4dc3-8404-98e15dabc06b" />
 
 ---
 
